@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" ?>
+
+<list>
+
+<!--Player phrases-->
+
+<text>
+	<id>1</id>
+	<name>我不再流血了</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>我感觉很健康</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>我正在流血</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>我快冻僵了</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>我快要饿死了</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>我快要渴死了</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>我找到了一些东西</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>没有找到任何物品</name>
+</text>
+
+<!--Player phrase: when no ammo for reloading-->
+<text>
+	<id>9</id>
+	<name>没有更多的弹药了</name>
+</text>
+<!--Player phrase: when ranged weapon is empited-->
+<text>
+	<id>10</id>
+	<name>子弹打光了</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>武器损坏了</name>
+</text>
+
+<text>
+	<id>12</id>
+	<name>这个泵里没有水了</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>我不想喝水</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>我吃了一块肉排</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>我需要一个水泵来取水</name>
+</text>
+
+<text>
+	<id>16</id>
+	<name>我已经用水泵装满水了</name>
+</text>
+
+<text>
+	<id>17</id>
+	<name>我吃了 </name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>我喝了 </name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>我使用了 </name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>武器已装满弹药</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>弹药已装填</name>
+</text>
+
+<!--Player phrase: when trying to load wrong ammo-->
+<text>
+	<id>34</id>
+	<name>该弹药不适用于该武器</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>我已经包扎完毕</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>我不再流血了</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>输血完毕</name>
+</text>
+
+<!--Player phrase: when trying to load battery to nvg/headlamp-->
+<text>
+	<id>38</id>
+	<name>已充满电</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>我需要一个头灯或夜视镜</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>我需要在地上放置营火套装来点火</name>
+</text>
+
+<text>
+	<id>41</id>
+	<name>我喝了威士忌</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>生理盐水输液完毕</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>我吃了维生素</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>武器损坏了</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>武器修理完毕</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>我吃了四环素</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>载具已加满油</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>我需要一辆可驾驶的车才行</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>水瓶空了</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>我已喝了水瓶里的水</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>水壶空了</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>我喝了水壶里的水</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>已埋好地雷</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>已部署陷阱</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>已修理载具</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>我烹煮了一块鱼排</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>我需要一个燃烧的篝火来做那件事</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>我吃了熟鱼排</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>我喝了核子可乐，感觉很棒</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>猎物已剥皮</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>没有要剥皮的猎物</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>没有多余的空间</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>刀坏了</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>我需要更多的木棍</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>头灯坏了</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>夜视仪坏了</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>我喝了格瓦斯</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>我需要一把锄头、干草叉或铲子</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>不可以在这里种植</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>已种植</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>块</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>我需要一把刀来剥猎物的皮</name>
+</text>
+
+<!-- When trying to switch to firearm and you dont have any  -->
+<text>
+	<id>73</id>
+	<name>我没有远程武器</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>点击投掷照明弹的位置</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>点击投掷手榴弹的位置</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>已经装满了</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>我喝了水泵里的水</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>我想吃点东西</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>我想喝点什么</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>我感到很冷</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>我要冻僵了</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>我正在取暖</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>我需要更多的电池</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>看起来附近没有军事坠机事件</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>看起来附近有个军事坠机地点</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>100</id>
+	<name>该死，我伤得很重</name>
+</text>
+
+<!-- Friend bots phrases: when player get into house, bot starts patroling entrance  -->
+<text>
+	<id>101</id>
+	<name>我来帮你放哨</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>你去搜刮，我来掩护</name>
+</text>
+
+<!-- Friend bots phrase: when player gets on firing line -->
+<text>
+	<id>103</id>
+	<name>你挡住目标了</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>104</id>
+	<name>嘿，一起合作吧！</name>
+</text>
+
+<!-- Enemy Melee bot phrases on getting hit from firearm-->
+<text>
+	<id>105</id>
+	<name>这不公平！</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>可恶，他有枪！</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>该死！</name>
+</text>
+
+<!-- Enemy Bot with firearm when spots player -->
+<text>
+	<id>108</id>
+	<name>给到这里来！</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>尝尝这个！</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>我看见你啦！</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>抱歉，我没有什么可交换的，请问一下其他人</name>
+</text>
+
+<!-- Additional player phrases -->
+
+<text>
+	<id>125</id>
+	<name>我是你的朋友</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>很好。</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>感谢你为我们修好船只。</name>
+</text>
+
+<!-- Update 1.2.0 addings -->
+
+<text>
+	<id>86</id>
+	<name>没有可以被锯短的枪械</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>此门已被彻底破坏</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>这里有毒气！我需要防毒面罩！</name>
+</text>
+
+<!-- Update 1.3.0 addings -->
+
+<text>
+	<id>89</id>
+	<name>我需要一辆可驾驶的载具</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>我不能从车里进行操作</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>载具已处于良好状态</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>载具已经加满油</name>
+</text>
+
+<!-- Quests -->
+
+<text>
+	<id>131</id>
+	<name>我对你没什么可说的</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>我需要去到湖边或海边才行</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>我没看到附近有任何鱼</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>我没有生病</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>再次感谢您的帮助，我们马上就要出发了</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>这里有个说明，其中包含了地图上某些地点的信息</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>谢谢！奖励标已经记在你的地图上了</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>抓到啦！</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>该死，溜走了</name>
+</text>
+
+</list>
